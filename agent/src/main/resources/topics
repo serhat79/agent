@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "tags": [
+      "internet Bilgisayarından Vpn Bağlantısı Yapılamaması.",
+      "internet Vpn Bağlantısı Yapılamaması.",
+      "internet Vpn Bağlanmıyor",
+      "internet Vpn hatası"
+    ],
+    "detail": ""
+  },
+  {
+    "id": 2,
+    "tags": [
+      "Windows Etki Alanı kullanıcı şifresinin kilitlenmesi veya unutulması.",
+      "kullanıcı şifresinin kilitlenmesi veya unutulması.",
+      "kullanıcı şifremi unuttum"
+    ],
+    "detail": ""
+  },
+  {
+    "id": 3,
+    "tags": [
+      "E-Posta alınamaması veya gönderilememesi",
+      "E-Posta mail alamıyorum",
+      "mail gelmiyor gönderilmiyor"
+    ],
+    "detail": ""
+  },
+  {
+    "id": 4,
+    "tags": [
+      "Cep telefonuna havelsan e-postalarının gelmemesi",
+      "telefonuma havelsan mail gelmemesi",
+      "telefonuma havelsan mailleri gelmiyor",
+      "havelsan mailleri telefonuma gelmiyor"
+    ],
+    "detail": ""
+  },
+  {
+    "id": 5,
+    "tags": [
+      "Internet Bilgisayarına Yazılım kurmak istendiğinde yetkisiz kullanıcı hatası alınması",
+      "Internet Bilgisayarına Yazılım kuramıyorum",
+      "Bilgisayarıma Yazılım kuramıyorum",
+      "Bilgisayarıma Yazılım nasıl kurabilirim",
+      "Kurulum yapamıyorum"
+    ],
+    "detail": ""
+  },
+  {
+    "id": 6,
+    "tags": [
+      "Remote desktop ( Uzak bağlantı ) yapmak istediğimizde bağlantının gerçekleşmemesi",
+      "An authentication error has accurred",
+      "Uzak bağlantı hatası",
+      "Uzak bağlantı sorunu"
+    ],
+    "detail": ""
+  },
+  {
+    "id": 7,
+    "tags": [
+      "Web sayfasına ulaşmak istendiğinde Engellendi uyarı sayfası ile karşılaşılmaktadır",
+      "Bazı web sayfasına erişemiyorum",
+      "Nazı siteler engelleniyor",
+      "Engellenen web sitelerine erişim",
+      "Web site bu kategori engellenmiştir"
+    ],
+    "detail":""
+  },
+  {
+    "id": 8,
+    "tags": [
+      "internete bağlanırken kullanıcı adı ve şifre sorması.",
+      "tarayıcı da kullanıcı adı ve şifre sorması."
+    ],
+    "detail": ""
+  },
+  {
+    "id": 9,
+    "tags": [
+      "jira nasıl proje açılır",
+      "jirada şartname",
+      "jira satın alım"
+    ],
+    "detail": "jira kullanımı soyledir.444"
+  }
+]
